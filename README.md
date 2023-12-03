@@ -1,3 +1,4 @@
+![](https://github.com/07sym/07sym/blob/main/Screenshot%202023-12-03%20135137.png)
 <h1 align="center">Hi 👋, I'm Ashwini Antarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"/>
