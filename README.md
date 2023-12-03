@@ -1,10 +1,12 @@
 ![](https://github.com/07sym/07sym/blob/main/Screenshot%202023-12-03%20141352.png)
 <h1 align="center">Hi 👋, I'm Ashwini Antarkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Web Developer</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07sym&label=Profile%20views&color=0e75b6&style=flat" alt="07sym" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development course**
+- 🌱 I’m currently learning **Full Stack Web Development course at Masai School.**
+
+- 👨‍💻 All of my projects are available at [https://07sym.github.io/](https://07sym.github.io/)
 
 - 💬 Ask me about **Html,CSS,Javascript,React**
 
@@ -25,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=07sym&show_icons=true&locale=en" alt="07sym" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=07sym&" alt="07sym" /></p>
+
+
